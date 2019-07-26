@@ -1,3 +1,3 @@
 # Descobrindo_pokemons_lendarios
-O aprendizado de máquina pode ser definido como uma série de regras e reajustes matemá- ticos/estatísticos necessários para que se encontre, ao final de uma etapa de "treino" sobre a experiência da máquina, um modelo preditivo que melhor se adeque aos dados disponíveis.
+O aprendizado de máquina pode ser definido como uma série de regras e reajustes matemáticos/estatísticos necessários para que se encontre, ao final de uma etapa de "treino" sobre a experiência da máquina, um modelo preditivo que melhor se adeque aos dados disponíveis.
 Este relatório tem como objetivo demonstar os passos e decisões tomados para a contrução de um modelo preditivo capaz de argumentar sobre a probabilidade de um pokémon 1 ser lendário. Dessa forma, pode-se dizer que a máquina irá aprender sobre alguns dados de diversos pokémons e terá a capacidade de avaliá-los de acordo com o rótulo já definid
